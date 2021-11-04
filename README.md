@@ -1,1 +1,1 @@
-# -competitive-programming-Python
+# Competitive programming in Python.
